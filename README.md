@@ -1,69 +1,47 @@
-## 👋 Xin chào!
+## 👋 Xin chào! / こんにちは！
 
-<!-- Tạo phần giới thiệu nhấp nháy -->
 <p align="center">
-  <span class="typewriter">
-    Hi tôi là Nguyễn Văn Tuấn Minh. Sinh viên năm 2 Trường Đại Học Phương Đông.
-  </span>
-  <span class="typewriter-jp" style="display:none;">
-    私はグエン・ヴァン・トゥアン・ミンです。フォンドン大学の情報技術学部の二年生です。
+  <span class="text-slider">
+    <span>Hi tôi là Nguyễn Văn Tuấn Minh. Sinh viên năm 2 Trường Đại Học Phương Đông.</span>
+    <span>私はグエン・ヴァン・トゥアン・ミンです。フォンドン大学の情報技術学部の二年生です。</span>
   </span>
 </p>
 
 <style>
-/* Hiệu ứng gõ chữ */
-.typewriter, .typewriter-jp {
+.text-slider {
+  display: inline-block;
   font-size: 18px;
   font-weight: bold;
   border-right: 2px solid #F85D7F;
   white-space: nowrap;
   overflow: hidden;
-  width: 0;
+}
+
+/* Ẩn tất cả span con trước */
+.text-slider span {
   display: inline-block;
-  animation: typing 4s steps(50, end) forwards;
+  opacity: 0;
+  width: 0;
+  animation: slideText 10s linear infinite;
+  position: absolute;
 }
 
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
+/* Lặp animation cho từng câu */
+.text-slider span:nth-child(1) {
+  animation-delay: 0s;
+}
+.text-slider span:nth-child(2) {
+  animation-delay: 5s;
 }
 
-/* Hiệu ứng đổi câu */
+/* Animation gõ chữ + fade in/out */
+@keyframes slideText {
+  0% { width: 0; opacity: 1; }
+  20% { width: 100%; opacity: 1; }
+  40% { opacity: 0; }
+  100% { opacity: 0; width: 0; }
+}
 </style>
-
-<script>
-let sentences = [
-  "Hi tôi là Nguyễn Văn Tuấn Minh. Sinh viên năm 2 Trường Đại Học Phương Đông.",
-  "私はグエン・ヴァン・トゥアン・ミンです。フォンドン大学の情報技術学部の二年生です。"
-];
-
-let current = 0;
-const typewriter = document.querySelector(".typewriter");
-const typewriterJP = document.querySelector(".typewriter-jp");
-
-function showNextSentence() {
-  if(current % 2 === 0){
-    typewriter.style.display = "inline-block";
-    typewriterJP.style.display = "none";
-  } else {
-    typewriter.style.display = "none";
-    typewriterJP.style.display = "inline-block";
-  }
-  
-  // Reset animation
-  let el = current % 2 === 0 ? typewriter : typewriterJP;
-  el.style.animation = "none";
-  void el.offsetWidth; // trigger reflow
-  el.style.animation = "typing 4s steps(50, end) forwards";
-  
-  current = (current + 1) % sentences.length;
-  setTimeout(showNextSentence, 5000); // 5s cho mỗi câu
-}
-
-window.onload = () => {
-  showNextSentence();
-}
-</script>
 
 
 ## 👨‍🎓 Giới thiệu
