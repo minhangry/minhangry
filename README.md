@@ -1,15 +1,66 @@
-<!-- Tiêu đề cầu vồng nhấp nháy từng chữ -->
-# <span style="color:#FF6B6B">H</span><span style="color:#4ECDC4">i</span> <span style="color:#45B7D1">t</span><span style="color:#96CEB4">h</span><span style="color:#FECA57">e</span><span style="color:#DDA0DD">r</span><span style="color:#98D8C8">e</span><span style="color:#F7DC6F">,</span> <span style="color:#FF6B6B">m</span><span style="color:#4ECDC4">ì</span><span style="color:#45B7D1">n</span><span style="color:#96CEB4">h</span> <span style="color:#FECA57">l</span><span style="color:#DDA0DD">à</span> <span style="color:#98D8C8">N</span><span style="color:#F7DC6F">g</span><span style="color:#FF6B6B">u</span><span style="color:#4ECDC4">y</span><span style="color:#45B7D1">ễ</span><span style="color:#96CEB4">n</span> <span style="color:#FECA57">V</span><span style="color:#DDA0DD">ă</span><span style="color:#98D8C8">n</span> <span style="color:#F7DC6F">T</span><span style="color:#FF6B6B">u</span><span style="color:#4ECDC4">ấ</span><span style="color:#45B7D1">n</span> <span style="color:#96CEB4">M</span><span style="color:#FECA57">i</span><span style="color:#DDA0DD">n</span><span style="color:#98D8C8">h</span> 
-
-<!-- Typing song ngữ Việt-Nhật cực chất -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=5000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=950&height=140&lines=Hi+there%2C+m%C3%ACnh+l%C3%A0+Tu%E1%BA%A5n+Minh+%F0%9F%91%8B;Sinh+vi%C3%AAn+n%C4%83m+2+CNTT+%E2%80%93+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Ph%C6%B0%C6%A1ng+%C4%90%C3%B4ng;JLPT+N4+%E2%9C%A8+%E2%86%92+%C4%90ang+%C3%B4n+N3+%F0%9F%87%AF%F0%9F%87%B5;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%E3%83%88%E3%82%A5%E3%82%A2%E3%83%B3%E3%83%9F%E3%83%B3%E3%81%A7%E3%81%99+%F0%9F%8C%B8;%E6%83%85%E5%A0%B1%E7%B3%BB2%E5%9B%9E%E7%94%9F%E3%81%A7%E3%81%99%EF%BC%81+%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8B%89%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99+%E2%9C%A8" alt="Typing SVG" />
+  <span class="typewriter">
+    Hi tôi là Nguyễn Văn Tuấn Minh. Sinh viên năm 2 Trường Đại Học Phương Đông.
+  </span>
+  <span class="typewriter-jp" style="display:none;">
+    私はグエン・ヴァン・トゥアン・ミンです。フォンドン大学の情報技術学部の二年生です。
+  </span>
 </p>
 
-<!-- Sóng neon + hoa anh đào nhẹ nhàng (rất Nhật) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-74a7f6d3-0a0e-4e0b-9d5a-9e7f9c9b7d5f.gif" width="100%"/>
-</p>
+<style>
+/* Hiệu ứng gõ chữ */
+.typewriter, .typewriter-jp {
+  font-size: 18px;
+  font-weight: bold;
+  border-right: 2px solid #F85D7F;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 0;
+  display: inline-block;
+  animation: typing 4s steps(50, end) forwards;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+/* Hiệu ứng đổi câu */
+</style>
+
+<script>
+let sentences = [
+  "Hi tôi là Nguyễn Văn Tuấn Minh. Sinh viên năm 2 Trường Đại Học Phương Đông.",
+  "私はグエン・ヴァン・トゥアン・ミンです。フォンドン大学の情報技術学部の二年生です。"
+];
+
+let current = 0;
+const typewriter = document.querySelector(".typewriter");
+const typewriterJP = document.querySelector(".typewriter-jp");
+
+function showNextSentence() {
+  if(current % 2 === 0){
+    typewriter.style.display = "inline-block";
+    typewriterJP.style.display = "none";
+  } else {
+    typewriter.style.display = "none";
+    typewriterJP.style.display = "inline-block";
+  }
+  
+  // Reset animation
+  let el = current % 2 === 0 ? typewriter : typewriterJP;
+  el.style.animation = "none";
+  void el.offsetWidth; // trigger reflow
+  el.style.animation = "typing 4s steps(50, end) forwards";
+  
+  current = (current + 1) % sentences.length;
+  setTimeout(showNextSentence, 5000); // 5s cho mỗi câu
+}
+
+window.onload = () => {
+  showNextSentence();
+}
+</script>
 
 ## 👨‍🎓 Giới thiệu
 - **Họ tên**: Nguyễn Văn Tuấn Minh
@@ -44,15 +95,7 @@
 </details>
 
 
-## 📊 GitHub Stats
 
-<!-- Thống kê tổng quan -->
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhangry&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-<!-- Ngôn ngữ sử dụng nhiều nhất -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhangry&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-<!-- Repo nổi bật -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minhangry&repo=TEN_REPO&theme=tokyonight)](https://github.com/minhangry/TEN_REPO)
 
 
 ## 🎌 Mục tiêu đến 2026
