@@ -1,8 +1,13 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3800&pause=1500&color=00D4FF&center=true&vCenter=true&repeat=true&width=1000&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81;Hi+t%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+V%C4%83n+Tu%E1%BA%A5n+Minh.;T%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+V%C4%83n+Tu%E1%BA%A5n+Minh.;%E7%A7%81%E3%81%AF+%E3%82%B0%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%90%E3%83%B3%E3%83%BB%E3%83%88%E3%82%A5%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%B3+%E3%81%A7%E3%81%99%E3%80%82;Sinh+vi%C3%AAn+n%C4%83m+2+Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+Ph%C6%B0%C6%A1ng+%C4%90%C3%B4ng;%C4%90%C3%B4ng+Ph%C6%B0%C6%A1ng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+2+n%C4%83m+sinh+%E3%81%A7%E3%81%99" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="ミンサマ" /></a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Full-stack+web+%26+app+developer;Experienced+UI%2FUX+Designer;10%2B+years+of+coding+experience;Always+learning+new+things;%E3%81%84%E3%81%A4%E3%81%A7%E3%82%82%E6%96%B0%E3%81%97%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%AD%A6%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99&size=24&color=f75c7e" alt="Typing SVG" />
+  </a>
+</p>
 ## 👨‍🎓 Giới thiệu
 - **Họ tên**: Nguyễn Văn Tuấn Minh
 - **Sinh viên năm 2** – Đại học Phương Đông  
