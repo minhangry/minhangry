@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi+tôi+là+Nguyễn+Văn+Tuấn+Minh.;私は+グエン・バン・トゥアン・ミン+です。;Sinh+viên+năm+2+Trường+Đại+Học+Phương+Đông。;東方大学+2年生です。" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3800&pause=1500&color=00D4FF&center=true&vCenter=true&repeat=true&width=1000&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81;Hi+t%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+V%C4%83n+Tu%E1%BA%A5n+Minh.;T%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+V%C4%83n+Tu%E1%BA%A5n+Minh.;%E7%A7%81%E3%81%AF+%E3%82%B0%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%90%E3%83%B3%E3%83%BB%E3%83%88%E3%82%A5%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%B3+%E3%81%A7%E3%81%99%E3%80%82;Sinh+vi%C3%AAn+n%C4%83m+2+Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+Ph%C6%B0%C6%A1ng+%C4%90%C3%B4ng;%C4%90%C3%B4ng+Ph%C6%B0%C6%A1ng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+2+n%C4%83m+sinh+%E3%81%A7%E3%81%99" alt="Typing SVG" />
 </div>
 
 ## 👨‍🎓 Giới thiệu
