@@ -38,15 +38,17 @@
 <details open>
   <p align="center">
     <a href="https://github.com/minhangry/ogc.git">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=minhangry&repo=ogcshopfrontend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=minhangry&repo=ogc&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
     </a>
   </p>
 </details>
 
 
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=minhangry&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhangry&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
 
 ## 🎌 Mục tiêu đến 2026
 - JLPT **N3** trước tháng 7/2026
