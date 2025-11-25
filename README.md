@@ -1,25 +1,7 @@
-### Xin chào! 👋
-
-<p align="left"> 
-  <img src="https://typing-svg.herokuapp.com/?lines=Hi%20t%C3%B4i%20l%C3%A0%20Nguy%E1%BB%85n%20V%C4%83n%20Tu%E1%BA%A5n%20Minh.;Sinh%20vi%C3%AAn%20n%C4%83m%202%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20H%E1%BB%8Dc%20Ph%C6%B0%C6%A1ng%20%C4%90%C3%B4ng.;こんにちは!%20グエン・ヴァン・トゥアン・ミンです。;東方大学の2年生です。" />
-</p>
-
----
-
-### Giới thiệu (Bản tĩnh)
-
-**🇻🇳 Tiếng Việt:**
-
-* **Hi, tôi là Nguyễn Văn Tuấn Minh.**
-* **Sinh viên năm 2 Trường Đại Học Phương Đông.**
-
-**🇯🇵 Tiếng Nhật:**
-
-* **こんにちは! グエン・ヴァン・トゥアン・ミンです。** ($Kon'nichiwa! Guen Ban Touan Min desu.$)
-* **東方大学の2年生です。** ($Tōhō Daigaku no 2-nensei desu.$)
-
----
-
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+tôi+là+Nguyễn+Văn+Tuấn+Minh.;私は+グエン・バン・トゥアン・ミン+です。;Sinh+viên+năm+2+Trường+Đại+Học+Phương+Đông。;東方大学+2年生です。" alt="Typing SVG" />
+</div>
 
 ## 👨‍🎓 Giới thiệu
 - **Họ tên**: Nguyễn Văn Tuấn Minh
