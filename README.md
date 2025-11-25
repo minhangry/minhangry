@@ -38,7 +38,7 @@
 <details open>
   <p align="center">
     <a href="https://github.com/minhangry/ogc.git">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Minh&repo=shopfrontend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=minhangry&repo=ogcshopfrontend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
     </a>
   </p>
 </details>
@@ -62,3 +62,22 @@
 Cảm ơn bạn đã ghé thăm profile nhé ✨
 
 ⭐ Nếu thấy hay thì cho mình 1 star nha!
+<p align="center">
+  <!-- Total Stars -->
+  <a href="https://github.com/minhangry?tab=repositories&sort=stargazers">
+    <img alt="Total Stars" title="Tổng số stars nhận được" 
+         src="https://custom-icon-badges.demolab.com/github/stars/minhangry?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+  </a>
+
+  <!-- Followers -->
+  <a href="https://github.com/minhangry?tab=followers">
+    <img alt="Followers" title="Follow mình trên GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/minhangry?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+  </a>
+
+  <!-- Profile Views – fix mới, load 100%, giống ảnh bạn gửi -->
+  <a href="https://github.com/minhangry/minhangry">
+    <img alt="Profile Views" title="Số lượt xem profile" 
+         src="https://komarev.com/ghpvc/?username=minhangry&color=8B46FF&style=for-the-badge&label=VISITORS&labelColor=6B2D5C&logo=eye&logoColor=white" />
+  </a>
+</p>
