@@ -1,3 +1,6 @@
+## 👋 Xin chào!
+
+<!-- Tạo phần giới thiệu nhấp nháy -->
 <p align="center">
   <span class="typewriter">
     Hi tôi là Nguyễn Văn Tuấn Minh. Sinh viên năm 2 Trường Đại Học Phương Đông.
@@ -61,6 +64,7 @@ window.onload = () => {
   showNextSentence();
 }
 </script>
+
 
 ## 👨‍🎓 Giới thiệu
 - **Họ tên**: Nguyễn Văn Tuấn Minh
