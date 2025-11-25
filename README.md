@@ -45,8 +45,8 @@
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=tuanminh02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanminh02&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![](https://github-readme-stats.vercel.app/api?username=minhangry&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhangry&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 ## 🎌 Mục tiêu đến 2026
 - JLPT **N3** trước tháng 7/2026
