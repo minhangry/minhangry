@@ -1,47 +1,24 @@
-## 👋 Xin chào! / こんにちは！
+### Xin chào! 👋
 
-<p align="center">
-  <span class="text-slider">
-    <span>Hi tôi là Nguyễn Văn Tuấn Minh. Sinh viên năm 2 Trường Đại Học Phương Đông.</span>
-    <span>私はグエン・ヴァン・トゥアン・ミンです。フォンドン大学の情報技術学部の二年生です。</span>
-  </span>
+<p align="left"> 
+  <img src="https://typing-svg.herokuapp.com/?lines=Hi%20t%C3%B4i%20l%C3%A0%20Nguy%E1%BB%85n%20V%C4%83n%20Tu%E1%BA%A5n%20Minh.;Sinh%20vi%C3%AAn%20n%C4%83m%202%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20H%E1%BB%8Dc%20Ph%C6%B0%C6%A1ng%20%C4%90%C3%B4ng.;こんにちは!%20グエン・ヴァン・トゥアン・ミンです。;東方大学の2年生です。" />
 </p>
 
-<style>
-.text-slider {
-  display: inline-block;
-  font-size: 18px;
-  font-weight: bold;
-  border-right: 2px solid #F85D7F;
-  white-space: nowrap;
-  overflow: hidden;
-}
+---
 
-/* Ẩn tất cả span con trước */
-.text-slider span {
-  display: inline-block;
-  opacity: 0;
-  width: 0;
-  animation: slideText 10s linear infinite;
-  position: absolute;
-}
+### Giới thiệu (Bản tĩnh)
 
-/* Lặp animation cho từng câu */
-.text-slider span:nth-child(1) {
-  animation-delay: 0s;
-}
-.text-slider span:nth-child(2) {
-  animation-delay: 5s;
-}
+**🇻🇳 Tiếng Việt:**
 
-/* Animation gõ chữ + fade in/out */
-@keyframes slideText {
-  0% { width: 0; opacity: 1; }
-  20% { width: 100%; opacity: 1; }
-  40% { opacity: 0; }
-  100% { opacity: 0; width: 0; }
-}
-</style>
+* **Hi, tôi là Nguyễn Văn Tuấn Minh.**
+* **Sinh viên năm 2 Trường Đại Học Phương Đông.**
+
+**🇯🇵 Tiếng Nhật:**
+
+* **こんにちは! グエン・ヴァン・トゥアン・ミンです。** ($Kon'nichiwa! Guen Ban Touan Min desu.$)
+* **東方大学の2年生です。** ($Tōhō Daigaku no 2-nensei desu.$)
+
+---
 
 
 ## 👨‍🎓 Giới thiệu
