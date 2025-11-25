@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+tôi+là+Nguyễn+Văn+Tuấn+Minh.;私は+グエン・バン・トゥアン・ミン+です。;Sinh+viên+năm+2+Trường+Đại+Học+Phương+Đông。;東方大学+2年生です。" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&repeat=false&width=900&lines=Hi+tôi+là+Nguyễn+Văn+Tuấn+Minh.;私は+グエン・バン・トゥアン・ミン+です。;Sinh+viên+năm+2+Trường+Đại+Học+Phương+Đông。;東方大学+2年生です。" alt="Typing SVG" />
 </div>
 
 ## 👨‍🎓 Giới thiệu
