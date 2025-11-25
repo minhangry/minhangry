@@ -44,10 +44,15 @@
 </details>
 
 
-
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=minhangry&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhangry&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
+<!-- Thống kê tổng quan -->
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhangry&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
+<!-- Ngôn ngữ sử dụng nhiều nhất -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhangry&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+<!-- Repo nổi bật -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minhangry&repo=TEN_REPO&theme=tokyonight)](https://github.com/minhangry/TEN_REPO)
 
 
 ## 🎌 Mục tiêu đến 2026
