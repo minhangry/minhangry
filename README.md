@@ -67,9 +67,13 @@ Laravel・Spring Boot・React（基礎）
 
   <!-- Profile Views – fix mới, load 100%, giống ảnh bạn gửi -->
   <a href="https://github.com/minhangry/minhangry">
-    <img alt="Profile Views" title="Số lượt xem profile" 
-         src="https://komarev.com/ghpvc/?username=minhangry&color=8B46FF&style=for-the-badge&label=VISITORS&labelColor=6B2D5C&logo=eye&logoColor=white" />
-  </a>
+  <img
+    alt="Profile Views"
+    title="So luot xem profile"
+    src="https://komarev.com/ghpvc/?username=minhangry&color=8B46FF&style=for-the-badge&label=VISITORS&labelColor=6B2D5C&logo=eye&logoColor=white"
+  />
+</a>
+
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
