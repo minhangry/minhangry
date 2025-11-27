@@ -71,3 +71,6 @@ Laravel・Spring Boot・React（基礎）
          src="https://komarev.com/ghpvc/?username=minhangry&color=8B46FF&style=for-the-badge&label=VISITORS&labelColor=6B2D5C&logo=eye&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
+</p>
